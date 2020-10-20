@@ -1,3 +1,6 @@
+/*
+Consider the following series: 0,0,7,6,14,12,21,18, 28,....
+*/
 #include<stdio.h>
 int evenodd(int quary)
 {
